@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi!:sparkles:
 
-<!--
-**camillesevillena/camillesevillena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Bachelor of Science in Information Systems student
+at
+West Visayas State University
 
-Here are some ideas to get you started:
+### :seedling: I'm currently learning
+- Flutter
+- Sparx
+- Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :mag_right: I'm looking for
+An online part-time job to help my family
+
+### :postbox: How to reach me:
+- Facebook (https://www.facebook.com/camille.songcayawonsevillena)
+- Twitter:hatched_chick: (https://www.twitter.com/cassaryne)
+- Email :e-mail: (camillearyne.sevillena@wvsu.edu.ph)
+
+## PADAYON :leaves:
