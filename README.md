@@ -9,6 +9,13 @@ West Visayas State University
 - Sparx
 - Programming Languages
 
+### :clipboard: Things I love to do:
+- Cooking
+- Watching Movies/KDramas
+- Listening to Kpop/OPM
+- Vector Tracing
+- Random Edits of Photos
+
 ### :mag_right: I'm looking for
 An online part-time job to help my family
 
