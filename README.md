@@ -1,4 +1,4 @@
-### Hi!:sparkles:
+### Hi! :sparkles:
 
 I am a Bachelor of Science in Information Systems student
 at
